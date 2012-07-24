@@ -9,5 +9,5 @@
 
 ### Tom Brown
 ### [@tomwiththeweath](http://twitter.com/tomwiththeweath)
-### [http://aor-rack-oauth2.heroku.com](http://aor-rack-oauth2.heroku.com)
+### [http://aor-rack-oauth2.herokuapp.com](http://aor-rack-oauth2.herokuapp.com)
 
